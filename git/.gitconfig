@@ -13,6 +13,7 @@
 [core]
 	excludesfile = /Users/jcouyang/.gitignore_global
 	editor = emacsclient
+	quotepath = false
 [filter "lfs"]
 	clean = git-lfs clean %f
 	smudge = git-lfs smudge %f
