@@ -4,6 +4,7 @@
 	email = oyanglulu@gmail.com
 [push]
 	default = simple
+	followTags = true
 [hub]
 	host = git.realestate.com.au
 [merge]
