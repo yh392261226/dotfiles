@@ -27,3 +27,5 @@
 	trustExitCode = true
 [alias]
 	semtag = !git tag -a $(semver tag) -m \"tagging $(semver tag)\"
+[commit]
+   gpgsign = true
